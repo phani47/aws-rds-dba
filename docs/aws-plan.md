@@ -1,4 +1,4 @@
-# AWS RDS DBA Bootcamp — 15-Day Plan
+# AWS RDS DBA Plan
 
 **Learner:** Phani Kumar  
 **Repository:** `aws-rds-dba`  
@@ -146,12 +146,12 @@ aws-rds-dba/
     └── lab-resource-ids.txt
 ```
 
-After saving this plan as `docs/15-day-bootcamp-plan.md`, review and commit it:
+After saving this plan as `docs/aws-rds-plan.md`, review and commit it:
 
 ```bash
 git status
-git add docs/15-day-bootcamp-plan.md
-git commit -m "docs: add 15-day RDS DBA bootcamp plan with RDS Proxy"
+git add docs/aws-rds-plan.md
+git commit -m "docs: add 15-day RDS DBA plan with RDS Proxy"
 git push origin main
 ```
 
